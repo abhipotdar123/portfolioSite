@@ -1,0 +1,22 @@
+{
+  "orgName": "LWC Dev company",
+  "edition": "Developer",
+  "adminEmail": "abhinavpotdar1@gmail.com",
+  "description": "This org is created for portfolio Site",
+  "hasSampleData": true,
+  "features": ["Communities", "Sites","EnableSetPasswordInApi"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled":true
+    },
+    "experienceBundleSettings": {
+      "enableExperienceBundleMetadata": true
+    }
+  }
+}
